@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ngu quaaaaa
+=======
+ngu 
+cout << edqdsinomxs;kma
+>>>>>>> 9acd2bc819be25eb40506691ae61a20847a20e05
